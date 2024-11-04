@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaizenX209
 - 👀 I am an AI engineer, MLOps, Backend Engineer.
-- 🌱 Experience: 2+ years with AI, 2+ months with MLOps, and 1+ years with BE, 1+ month with Data Engineer.
+- 🌱 Experience: 2+ years with AI, 1+ years with MLOps, 1+ years with BE, and 1+ years with Data Engineer.
 - 💞️ Linkedin: https://www.linkedin.com/in/hieuvm209/
 - 📫 Contact: kaizenx209@gmail.com
 - 😄 Pronouns: ...
