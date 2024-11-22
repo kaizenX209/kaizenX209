@@ -3,7 +3,7 @@
 - 🌱 Experience: 2+ years with AI, 1+ years with MLOps, 1+ years with BE, and 1+ years with Data Engineer.
 - 💞️ Linkedin: https://www.linkedin.com/in/hieuvm209/
 - 📫 Contact: kaizenx209@gmail.com
-- 😄 Donate me: Bank: BIDV - STK: 8821620734 - Name: Vũ Minh Hiếu 
+- 😄 Donate me: Bank: BIDV - STK: 8821620734 - Name: VU MINH HIEU
 - ⚡ Have a nice day!
   
 
